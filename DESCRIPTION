@@ -1,0 +1,18 @@
+Package: myfinalproject
+Type: Package
+Title: This package creates the functions of the numeric and charateric summary to the vector and created a dataset
+Version: 0.1.0.9000
+Author: Jahnavi
+Maintainer: The package maintainer <jmandhadapu@usf.edu>
+Description: Using different functions to create a vector and a dataset.
+    Use four spaces when indenting paragraphs within the Description.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+VignetteBuilder: knitr
